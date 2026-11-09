@@ -1,0 +1,6 @@
+codec,nominal_bits_per_nt,effective_bits_per_nt,mean_oligo_nt,payload_bits,valid_rate,gc_ok_rate,hp_ok_rate,mean_gc,std_gc,mean_max_hp,p95_max_hp,max_hp_obs
+Naive2Bit,2.0,2.0,150.0,300,0.1648,0.99,0.1658,0.4998,0.0405,4.329,6.0,10
+Church1Bit,1.0,1.0,150.0,150,1.0,1.0,1.0,0.5,0.0,1.0,1.0,1
+GoldmanRotate,1.5714,1.5714,147.0,231,0.9992,0.9992,1.0,0.4997,0.0295,1.0,1.0,1
+Block6to4,1.5,1.5,148.0,222,0.7465,1.0,0.7465,0.5,0.0,3.207,4.0,4
+Screened2Bit,2.0,0.3365,150.0,300,0.1683,0.9882,0.1705,0.5004,0.0411,4.32,6.0,9

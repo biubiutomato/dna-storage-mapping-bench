@@ -1,0 +1,2 @@
+codec,nominal_bits_per_nt,payload_bits,mean_oligo_nt,n,valid_rate,gc_ok_rate,hp_ok_rate,mean_gc,std_gc,mean_max_hp,max_hp_obs
+MarkerResync,1.4667,220,150.0,4000,0.9982,0.9982,1.0,0.5003,0.0321,2.0,2

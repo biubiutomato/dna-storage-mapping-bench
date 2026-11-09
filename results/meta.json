@@ -1,0 +1,19 @@
+{
+  "seed": 20260927,
+  "oligo_nt": 150,
+  "n_oligos_constraint": 4000,
+  "n_oligos_error": 800,
+  "gc_range": [
+    0.4,
+    0.6
+  ],
+  "hp_max": 3,
+  "error_rates": [
+    0.0,
+    0.001,
+    0.005,
+    0.01,
+    0.02,
+    0.05
+  ]
+}

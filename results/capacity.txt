@@ -1,0 +1,18 @@
+HP<=2: asymptotic 1.9227 bits/nt
+HP<=3: asymptotic 1.9824 bits/nt
+HP<=4: asymptotic 1.9957 bits/nt
+L=100 GC[0.4,0.6] HP<=3: 1.9825 bits/nt  (fraction of all 4^L: 0.2968)
+L=100 GC[0.45,0.55] HP<=3: 1.9789 bits/nt  (fraction of all 4^L: 0.2309)
+L=100 GC[0.4,0.6] HP<=2: 1.9239 bits/nt  (fraction of all 4^L: 0.0051)
+L=100 GC[0.4,0.6] HP<=4: 1.9954 bits/nt  (fraction of all 4^L: 0.7282)
+L=100 GC[0.0,1.0] HP<=3: 1.9828 bits/nt  (fraction of all 4^L: 0.3043)
+L=150 GC[0.4,0.6] HP<=3: 1.9826 bits/nt  (fraction of all 4^L: 0.1640)
+L=150 GC[0.45,0.55] HP<=3: 1.9806 bits/nt  (fraction of all 4^L: 0.1334)
+L=150 GC[0.4,0.6] HP<=2: 1.9236 bits/nt  (fraction of all 4^L: 0.0004)
+L=150 GC[0.4,0.6] HP<=4: 1.9957 bits/nt  (fraction of all 4^L: 0.6417)
+L=150 GC[0.0,1.0] HP<=3: 1.9827 bits/nt  (fraction of all 4^L: 0.1651)
+L=200 GC[0.4,0.6] HP<=3: 1.9826 bits/nt  (fraction of all 4^L: 0.0894)
+L=200 GC[0.45,0.55] HP<=3: 1.9817 bits/nt  (fraction of all 4^L: 0.0794)
+L=200 GC[0.4,0.6] HP<=2: 1.9234 bits/nt  (fraction of all 4^L: 0.0000)
+L=200 GC[0.4,0.6] HP<=4: 1.9958 bits/nt  (fraction of all 4^L: 0.5567)
+L=200 GC[0.0,1.0] HP<=3: 1.9826 bits/nt  (fraction of all 4^L: 0.0896)
